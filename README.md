@@ -3,7 +3,7 @@
   
   
 ## Project Intro/Objective
-This analysis examines the effectiveness of government insurance programs' ability to reduce the disparity in access to care based on demogrpahic groups in the United States. The goal is to understand if government insurance programs, when used by minority groups, are associated with an increased usage of the American healthcare system compared to white-identifying groups with private insurance.
+This analysis examines the effectiveness of government insurance programs' ability to reduce disparities in access to care based on demographic group in the United States. The goal is to understand if government insurance programs, when used by minority groups, are associated with an increased usage of the American healthcare system compared to white-identifying groups with private insurance.
 
   
 ## Dataset
